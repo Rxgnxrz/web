@@ -1,0 +1,95 @@
+@media (max-width: 375px) {
+    .nav-options {
+       display: none;
+    }
+    .menu {
+       display: block;
+       position: absolute;
+       right: 0;
+       top: 3;
+    }
+    .main-container {
+       display: flex;
+       flex-direction: column;
+    }
+    .desktop {
+       width: 180%;
+       margin-left: auto;
+       margin-right: auto;
+    }
+    .div-container {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+    }
+    .text {
+       width: 180%;
+    }
+    .second-text {
+       width: 180%;
+       padding: 0 24px;
+       font-size: 16px;
+    }
+    .primary-button {
+       height: 50px;
+    }
+    .side-container {
+       width: 90%;
+       height: 90%;
+       margin-right: auto;
+    }
+    .final-div {
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       width: 500px;
+       padding: 0;
+    }
+    .div-one {
+       display: flex;
+       width: 100%;
+       
+    }
+    .div-one img {
+        width: 80%;
+        
+     }
+    .img-separador {
+        width: 40%;
+        height: 100%;
+        padding-left: 37px;
+    }
+    .text-1 {
+        width: 40%;
+    }
+    .div-two {
+       display: flex;  
+       width: 100%; 
+    }
+    .div-two img {
+       width: 80%;
+    }
+    .img-separador-2 {
+        width: 40%;
+        height: 100%;
+        padding-left: 37px;
+    }
+    .text-2 {
+        width: 40%;
+    }
+    .div-three {
+       display: flex;
+       width: 100%;
+    }
+    .div-three img {
+       width: 80%;
+    }
+    .img-separador-3 {
+        width: 40%;
+        height: 100%;
+        padding-left: 37px;
+     }
+    .text-3 {
+        width: 40%;
+     }
+     
