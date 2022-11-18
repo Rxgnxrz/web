@@ -1,39 +1,59 @@
 # web
-Guía de Estilo
+<h1><strong>Guía de Estilos</strong></h1>
 
-Diseño
+<strong>Diseño</strong>
+
+![web page](https://user-images.githubusercontent.com/115196650/202760122-74c3acba-cf78-4201-8af1-a2d787dbb53a.png)
 
 Los diseños se crearon con los siguientes anchos:
+<ul>
+ <li>Mobile: 375px</li>
 
--Mobile: 375px
+ <li>Desktop: 1440px</li>
+  
+ </ul> 
+ 
+<strong>Colores:</strong>
 
--Desktop: 1440px
+<strong>Primarios</strong>
+<ul>
 
-Colores
+<li>Soft orange: hsl(35, 77%, 62%)</li>
 
-Primarios
+<li>Soft red: hsl(5, 85%, 63%)</li>
+  
+</ul>
 
--Soft orange: hsl(35, 77%, 62%)
+<strong>Neutrales</strong>
 
--Soft red: hsl(5, 85%, 63%)
+<ul>
 
-Neutrales
--Off-white: hsl(36, 100%, 99%)
+  <li>Off-white: hsl(36, 100%, 99%)</li>
 
--Grayish blue: hsl(233, 8%, 79%)
+  <li>Grayish blue: hsl(233, 8%, 79%)</li>
 
--Dark grayish blue: hsl(236, 13%, 42%)
+  <li>Dark grayish blue: hsl(236, 13%, 42%)</li>
 
--Very dark blue: hsl(240, 100%, 5%)
+  <li>Very dark blue: hsl(240, 100%, 5%)</li>
+ 
+ </ul> 
 
-Tipografía
+<strong>Tipografía</strong>
 
-Cuerpo
+<strong>Cuerpo</strong>
 
--Font size (párrafo): 15px
+<ul>
 
-Fuentes
+<li>Font size (párrafo): 15px </li>
 
--Family: Inter
+</ul>  
 
--Weights: 400, 700, 800
+<strong>Fuentes</strong>
+
+<ul>
+
+<li>Family: Inter</li>
+
+<li>Weights: 400, 700, 800</li>
+  
+</ul>
