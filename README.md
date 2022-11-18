@@ -1,6 +1,8 @@
 # web
 Guía de Estilo
+
 Diseño
+
 Los diseños se crearon con los siguientes anchos:
 
 -Mobile: 375px
